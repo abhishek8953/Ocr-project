@@ -7,3 +7,4 @@ step 4:after running you get a webinterface then click on the deploy button and 
 
 
 make sure every file in the same folder
+command for run :streamlit run newStreamlite.py
